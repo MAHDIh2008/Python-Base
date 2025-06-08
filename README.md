@@ -71,6 +71,7 @@ Coming soon:
 | 15  | Student Grades              | Add/view grades, compute average/total                                     |
 | 16  | Student Manager             | Full CRUD for student records                                              |
 | 17  | Todo App                    | A basic to-do tracker in memory                                            |
+| 18  | FileFolderManager           | A basic file and folder manager                                            |
 
 ---
 
